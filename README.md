@@ -6,3 +6,14 @@ Never do live-demo, never works.
 Nice weather in Annecy.
 Foo bar baz.
 Awesome git.
+
+
+
+
+
+
+
+
+
+
+We'll make a boat tour on the lake.
