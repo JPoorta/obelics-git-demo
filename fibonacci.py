@@ -1,6 +1,9 @@
 def fib(n):
     '''Calculate the nth fibonacci number'''
 
+    if not isinstance(n, int):
+        raise ValueError('n must be integer')
+
     if n == 0 or n == 1:
         return 1
 
