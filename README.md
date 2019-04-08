@@ -12,3 +12,4 @@ Awesome git.
 We'll make a boat tour on the lake.
 
 
+After that, we'll have dinner.
