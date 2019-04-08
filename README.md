@@ -9,11 +9,6 @@ Awesome git.
 
 
 
-
-
-
-
-
-
-
 We'll make a boat tour on the lake.
+
+
